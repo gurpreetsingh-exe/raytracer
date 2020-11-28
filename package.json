@@ -1,0 +1,13 @@
+{
+    "name": "ray_tracer",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "npm run --silent log > image.ppm",
+        "log": "node ./js/main.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
